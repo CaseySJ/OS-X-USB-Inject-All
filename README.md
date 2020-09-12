@@ -127,7 +127,7 @@ Downloads are available on the "Release" tab
 
 The best way to download the config_patches.plist and other repo files is to download the project ZIP:
 
-https://github.com/Sniki/OS-X-USB-Inject-All/archive/master.zip
+https://github.com/CaseySJ/OS-X-USB-Inject-All/archive/master.zip
 
 
 ### How to Install
